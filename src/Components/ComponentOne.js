@@ -6,7 +6,7 @@ function ComponentOne() {
   return (
     <div>
       <h1>Test - ComponentOne</h1>
-      <button>ComponentOne Button</button>
+      <button class="Component_One_Class">ComponentOne Button</button>
       <div>
         <Link to="/second">Switch Component</Link>
       </div>
