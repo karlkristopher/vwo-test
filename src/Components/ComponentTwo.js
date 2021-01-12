@@ -5,7 +5,7 @@ function ComponentTwo() {
   return (
     <div>
       <h1>Test - ComponentTwo</h1>
-      <button class="Component_Two_Class">ComponentTwo Button</button>
+      <button class="Component_Class">ComponentTwo Button</button>
       <div>
         <Link to="/">Switch Component</Link>
       </div>
